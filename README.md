@@ -1,2 +1,2 @@
-# The-Weekend-Fitness-Club
-WFC
+# Fitness-Club
+FC
